@@ -1,0 +1,47 @@
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_big1.png" tvg-name="AL-QURAN AL-KAREEM"  group-title="ISLAMIC",AL-QURAN AL-KAREEM
+http://rr2.dens.tv/s/s28/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.islambox.com/Images/Products/Channels/mainlogo/alsunnah-logo.png" tvg-name="SUNNAH NABAWIYAH"  group-title="ISLAMIC",SUNNAH NABAWIYAH
+http://rr2.dens.tv/s/s27/index.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/767939951182778369/XRMzCgfl.jpg" tvg-name="AKHYAR TV"  group-title="ISLAMIC",AKHYAR TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/807272747873116160/npwrcKzj_400x400.jpg" tvg-name="SURAU TV"  group-title="ISLAMIC",SURAU TV
+http://119.235.249.60:1935/surautv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/05/Rodja-TV.jpg" tvg-name="RODJA TV"  group-title="ISLAMIC",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://ahsan.tv/wp-content/uploads/2017/08/cropped-WhatsApp-Image-2017-08-08-at-11.16.14-1.jpeg" tvg-name="AHSAN TV"  group-title="ISLAMIC",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png" tvg-name="ASHILLTV"  group-title="ISLAMIC",ASHILLTV
+http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://3.bp.blogspot.com/-IMhAHy1VWSo/WOHo9BQBxKI/DQ8/VSNMYB_dDUEiBYfH9oOiutxENo1PAgtCgCPcB/s1600/Wesal-TV-Indonesia_o.jpg" tvg-name="WESAL TV"  group-title="ISLAMIC",WESAL TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/701962118917001220/q51ms-zx_400x400.jpg" tvg-name="SALAM TV" group-title="ISLAMIC",SALAM TV 
+http://119.235.249.60:1935/salamtv/live/playlist.m3u8  
+
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="TAHFIDZ TV"  group-title="ISLAMIC",TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://www.imuslim.id/wp-content/uploads/2018/07/insantv.jpeg" tvg-name="INSAN TV"  group-title="ISLAMIC",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.imuslim.id/wp-content/uploads/2018/07/aliman.png" tvg-name="AL-IMAN TV " group-title="ISLAMIC",AL-IMAN TV 
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8   
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PULDAPII TV" group-title="ISLAMIC",PULDAPII TV 
+http://159.89.206.152/mobile/web.m3u8   
+
+#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png" group-title="ISLAMIC",TVMU 
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv   
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.muslimstv.tv/logo/salingsapa.jpg" tvg-name="SALING SAPA"  group-title="ISLAMIC",SALING SAPA
+http://157.119.56.249:2019/live/gratis/diemdiemaja/167.ts
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://live.artvisi.or.id/logo/aqshatv.png" tvg-name="AQSHA TV"  group-title="ISLAMIC",AQSHA TV
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
