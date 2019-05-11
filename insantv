@@ -32,10 +32,10 @@ http://119.235.249.60:1935/salamtv/live/playlist.m3u8
 #EXTINF:-1,  TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
-#EXTINF:-1,  INSAN TV"  group-title="ISLAMIC",INSAN TV
+#EXTINF:-1,  INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
 
-#EXTINF:-1  AL-IMAN TV " group-title="ISLAMIC",AL-IMAN TV 
+#EXTINF:-1   AL-IMAN TV 
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8   
 
 #EXTINF:-1  ,PULDAPII TV 
