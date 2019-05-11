@@ -2,34 +2,34 @@
 #EXTINF:-1,ZalTV Indonesia
 https://result2.cdn.magisto.com/a/1/aVMEO1RbFDNsDxJhCzE
 
-#EXTINF:-1,  AL-QURAN AL-KAREEM"  group-title="ISLAMIC",AL-QURAN AL-KAREEM
+#EXTINF:-1,  AL-QURAN AL-KAREEM
 http://rr2.dens.tv/s/s28/index.m3u8
 
-#EXTINF:-1,  SUNNAH NABAWIYAH"  group-title="ISLAMIC",SUNNAH NABAWIYAH
+#EXTINF:-1,   SUNNAH NABAWIYAH
 http://rr2.dens.tv/s/s27/index.m3u8
 
-#EXTINF:-1,  AKHYAR TV"  group-title="ISLAMIC",AKHYAR TV
+#EXTINF:-1,  AKHYAR TV
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist.m3u8
 
-#EXTINF:-1,  SURAU TV"  group-title="ISLAMIC",SURAU TV
+#EXTINF:-1,  SURAU TV
 http://119.235.249.60:1935/surautv/live/playlist.m3u8
 
-#EXTINF:-1,  RODJA TV"  group-title="ISLAMIC",RODJA TV
+#EXTINF:-1,  RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
-#EXTINF:-1,  AHSAN TV"  group-title="ISLAMIC",AHSAN TV
+#EXTINF:-1,  AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
-#EXTINF:-1,  ASHILLTV"  group-title="ISLAMIC",ASHILLTV
+#EXTINF:-1,  ASHILLTV
 http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
 
-#EXTINF:-1,  ISLAMIC",WESAL TV
+#EXTINF:-1, WESAL TV
 http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
 
-#EXTINF:-1  SALAM TV" group-title="ISLAMIC",SALAM TV 
+#EXTINF:-1  SALAM TV 
 http://119.235.249.60:1935/salamtv/live/playlist.m3u8  
 
-#EXTINF:-1,  ,TAHFIDZ TV
+#EXTINF:-1,  TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
 #EXTINF:-1,  INSAN TV"  group-title="ISLAMIC",INSAN TV
@@ -38,14 +38,14 @@ http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
 #EXTINF:-1  AL-IMAN TV " group-title="ISLAMIC",AL-IMAN TV 
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8   
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PULDAPII TV" group-title="ISLAMIC",PULDAPII TV 
+#EXTINF:-1  ,PULDAPII TV 
 http://159.89.206.152/mobile/web.m3u8   
 
-#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png" group-title="ISLAMIC",TVMU 
+#EXTINF:-1  ,TVMU 
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv   
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.muslimstv.tv/logo/salingsapa.jpg" tvg-name="SALING SAPA"  group-title="ISLAMIC",SALING SAPA
+#EXTINF:-1,  SALING SAPA
 http://157.119.56.249:2019/live/gratis/diemdiemaja/167.ts
 
-#EXTINF:-1, tvg-id="" tvg-logo="http://live.artvisi.or.id/logo/aqshatv.png" tvg-name="AQSHA TV"  group-title="ISLAMIC",AQSHA TV
+#EXTINF:-1,  AQSHA TV
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
